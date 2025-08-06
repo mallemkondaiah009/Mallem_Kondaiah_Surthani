@@ -46,53 +46,6 @@ I'm a backend developer passionate about creating **efficient**, **scalable**, a
 
 ---
 
-## 🚀 Projects
-
-### 📡 [Real-Time Chat API](https://judas-dsaj.onrender.com/)
-> [🔗 GitHub Repo](https://github.com/mallemkondaiah009/CHAT_APP)
-
-- Full-stack chat API built with **Node.js**, **Express**, **MongoDB**, and **Socket.IO**
-- Real-time messaging with **WebSocket** and user presence tracking
-- Secure **JWT Authentication**, file uploads, chat rooms
-- Deployed on **Render** with complete MVC structure
-
----
-
-### 🎓 [Educational Learning Platform](https://edulearn-c52m.onrender.com/)
-> [🔗 GitHub Repo](https://github.com/mallemkondaiah009/YT_LEARNING)
-
-- Built with **Django** and deployed on **Render**
-- Features include: course tracking, video access in multiple languages
-- Integrated **Google login**, **password recovery**, and analytics
-
----
-
-### 🛒 [E-Commerce Website](https://smk-kart.onrender.com/)
-> [🔗 GitHub Repo](https://github.com/mallemkondaiah009/E-commerce_Website_Using_Django)
-
-- Built with **Django**, **MySQL**, and **Razorpay** payment integration
-- Includes **user authentication**, **product management**, and **shopping cart**
-- Mobile-friendly UI and secure online payments
-
----
-
-## 🧠 Certifications & Achievements
-
-- 🥇 **Python Gold Badge** — HackerRank (2023)
-- 🥈 **SQL Silver Badge** — HackerRank (2024)
-- 🧪 **Web Scraping** — Simplilearn (2024)
-- 🎓 **NPTEL Elite Certificate** — Python Programming (2024)
-- 💡 **50-Day Consistency Badge** — LeetCode (2024)
-
----
-
-## 🧑‍🎓 Education
-
-**Bachelor of Technology (B.Tech) – CSE**  
-Narayana Engineering College, Gudur  
-📅 2020 – 2024 | 🎓 CGPA: 7.88
-
----
 
 ## 📫 Connect with Me
 
@@ -113,18 +66,26 @@ Narayana Engineering College, Gudur
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallemkondaiah009&show_icons=true&theme=radical&hide_border=false" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=mallemkondaiah009&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mallemkondaiah009&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallemkondaiah009&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallemkondaiah009&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallemkondaiah009&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mallemkondaiah009&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mallemkondaiah009&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mallemkondaiah009&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mallemkondaiah009&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mallemkondaiah009&icon=0&color=0" alt="Visitor Counter"/>
+  <img src="https://visitcount.itsvg.in/api?id=mallemkondaiah009&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Visitor Count"/>
 </p>
-
-<!-- Clean & Professional README generated based on resume and projects -->
